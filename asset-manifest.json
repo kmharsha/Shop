@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kmharsha/shop/static/css/main.fc1ca147.css",
+    "main.js": "/kmharsha/shop/static/js/main.e5484ad0.js",
+    "index.html": "/kmharsha/shop/index.html",
+    "main.fc1ca147.css.map": "/kmharsha/shop/static/css/main.fc1ca147.css.map",
+    "main.e5484ad0.js.map": "/kmharsha/shop/static/js/main.e5484ad0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc1ca147.css",
+    "static/js/main.e5484ad0.js"
+  ]
+}
